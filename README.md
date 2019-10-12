@@ -20,6 +20,15 @@ This application is built using Angular 5, it makes use of Chart JS to display o
 Chart JS
 ~~~
 
+## Preview
+
+!['image'](first.png)
+!['image'](second.png)
+!['image'](three.png)
+!['image'](four.png)
+!['image'](five.png)
+
+
 # Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.6.
