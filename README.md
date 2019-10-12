@@ -1,6 +1,6 @@
 # OilStockPrediction
 
-This application is built using Angular 5, it makes use of Chart JS to display Oil stock prediction details in an more engaging and representational manner based on the user search.
+This application is built using Angular 5, it makes use of Chart JS to display oil stock details in an more engaging and representational manner based on the user search.
 
 ##  Languages Utilized
 
@@ -16,9 +16,9 @@ This application is built using Angular 5, it makes use of Chart JS to display O
 
 ## Additional Feature
 
-```
+~~~
 Chart JS
-```
+~~~
 
 # Angular CLI
 
