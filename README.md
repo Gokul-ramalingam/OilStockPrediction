@@ -22,11 +22,11 @@ Chart JS
 
 ## Preview
 
-!['image'](first.png)
-!['image'](second.png)
-!['image'](three.png)
-!['image'](four.png)
-!['image'](five.png)
+![image](first.png)
+![image](second.png)
+![image](three.png)
+![image](four.png)
+![image](five.png)
 
 
 # Angular CLI
